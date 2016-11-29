@@ -42,8 +42,8 @@ class GitHubAPIManager {
     }
   }
   
-  let clientID: String = "1234567890"
-  let clientSecret: String = "abcdefghijkl"
+  let clientID: String = "64843d22eab811e1f5bd"
+  let clientSecret: String = "fbd185118b3e775fc095eb7eb296e509a6308dc3"
   
   func clearCache() -> Void {
     let cache = URLCache.shared
